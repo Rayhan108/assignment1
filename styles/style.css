@@ -88,3 +88,33 @@ top: 1533.13px;
 color: green;
 }
 /* my plan section styles */
+.skills{
+  display: flex;
+margin: 50px 229px 130px 230px;
+  justify-content: space-around;
+}
+.title{
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 130px;
+  font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+
+}
+.habit-title{
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+  margin: 16px auto;
+}
+.text{
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
