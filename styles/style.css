@@ -37,13 +37,47 @@
   color: #005fac;
   padding: 20px 25px;
 }
-.btn{
-    text-align: right;
-    padding-bottom: 166px;
+.btn {
+  text-align: right;
+  padding-bottom: 166px;
 }
 .header-content {
   margin-left: 845px;
   margin-right: 230px;
 }
 /* failure styles */
+.my-failure {
+  display: flex;
+  width: 1072px;
+  height: 723.3px;
+  margin: 130px 322px 130px 206px;
+}
+.failure-content-section {
+  margin: 50px 322px 214px 87px;
+}
+.header {
+  margin: 50px 492px 24px 55px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+.paragraph {
+  margin: 24px 365px 16px 55px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+}
+.content{
+  margin: 16px 431px 131px 55px ;
+  gap: 8px;
 
+}
+.failure-content{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+/* my plan section styles */
