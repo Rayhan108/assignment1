@@ -86,6 +86,38 @@ i {
   top: 1533.13px;
   color: green;
 }
+/* other section design */
+.other-container {
+  background: rgb(126, 126, 221);
+}
+.other-title {
+  weight: 700;
+  size: 65px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.other-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+  text-align: center;
+}
+/* media */
+.vedio-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin: 50px auto;
+}
+.vedio {
+  display: block;
+  margin: auto;
+}
 /* my plan section styles */
 .skills {
   display: flex;
@@ -161,7 +193,6 @@ i {
   line-height: 23px;
   margin-top: 16px;
   margin-left: 64px;
-  
 }
 .grad-content {
   /* margin: 59px;
@@ -187,8 +218,7 @@ section.future {
   color: #f8f8f8;
   width: 485px;
   height: 319.48px;
-  padding: 104px 50px 10px 268px; 
- 
+  padding: 104px 50px 10px 268px;
 }
 .subscribe {
   width: 325px;
@@ -217,8 +247,7 @@ a {
 .social-icon {
 }
 .social-anchor {
-  padding: 10px 293px 153px 268px; 
-  
+  padding: 10px 293px 153px 268px;
 }
 
 .subscribe-title {
@@ -238,17 +267,16 @@ a {
 }
 .sbscrbe {
   width: 170.11px;
-height: 64px;
-left: 1071px;
-top: 2936px;
-font-weight: 600;
-font-size: 20px;
-line-height: 24px;
+  height: 64px;
+  left: 1071px;
+  top: 2936px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
 
-color: #FFFFFF;
-background: #005FAC;
-border-radius: 8px;
-border: 0px;
-padding: 20px 36px;
-
+  color: #ffffff;
+  background: #005fac;
+  border-radius: 8px;
+  border: 0px;
+  padding: 20px 36px;
 }
